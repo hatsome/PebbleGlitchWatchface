@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Alexander Fleischli",
+    "longName": "Glitch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/coolvetica rg.ttf",
+                "name": "FONT_COOLVETICA_42",
+                "trackingAdjust": 4,
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Glitch",
+    "uuid": "1ea7ebca-cb1e-4b04-99d9-4ea725d270ab",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
